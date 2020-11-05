@@ -2,7 +2,7 @@
   background-color: #ffff;
 }
 
-.container__header {
+/* .container__header {
   width: 100%;
   height: 200px;
   background-color: aqua;
@@ -55,4 +55,20 @@
 .publish > form p {
   color: #025157;
   margin-right: 18px;
+} */
+
+.promo {
+  display: flex;
+  
+}
+
+.explanatory-video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.explanatory-video img {
+  width: 120px;
+  margin-top: 10px;
 }
